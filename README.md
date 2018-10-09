@@ -4,4 +4,4 @@ This is the first iOS application attempted by Mutian Chen and Binwei Xu. The ap
 
 The UI and logo design is done by Binwei Xu. Special thanks to Brian Voong, the owner and blogger of Lets Build That App, who inspired and guided us with excellent video tutorials and answers to specific questions. 
 
-![alt text](https://github.com/bixubot/AcquainTest/blob/master/login.png =128x)
+![alt text](https://github.com/bixubot/AcquainTest/blob/master/login.png)
